@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React app using webpack tutorial",
   "scripts": {
-    "start": "webpack serve --open --hot --progress",
+    "start": "webpack serve --env production --open --hot --progress",
     "build": "webpack build"
   },
   "author": "Sofiene Memmi",
